@@ -1,19 +1,22 @@
-#main{
-    background-color: #f0ecec;
-    text-align: center;
+#main {
+  background-color: #f0ecec;
+  text-align: center;
 }
-#tribute-info{
-    margin: auto;
-    width: 50%;
-    text-align: left;
-    margin-top: 50px;
+
+#tribute-info {
+  margin: auto;
+  width: 50%;
+  text-align: left;
+  margin-top: 50px;
 }
-li{
-    margin-bottom: 20px;
+
+li {
+  margin-bottom: 20px;
 }
-#image{
-    max-width: 90%;
-    margin: auto;
-    height: auto;
-    display: block;
+
+#image {
+  max-width: 90%;
+  margin: auto;
+  height: auto;
+  display: block;
 }
